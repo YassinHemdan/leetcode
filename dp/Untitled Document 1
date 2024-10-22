@@ -1,0 +1,13 @@
+1- leetcode -> solve the counting problems + grid problems
+2- determine the project features
+3- review the erd well
+4- search on different dbs usages
+5- review kafka
+6- take a look to web pdfs: review sync and async communication and how to apply them
+7- finish the high level arch of the project: how the services will talk to each other. which database for every ms.
+8- write the needed attributes for every entity.
+9- design the apis for every ms.
+
+
+-----------
+designing and implementing a ms -> create a unml. apply design principles --> ood, solid principles, design patterns
